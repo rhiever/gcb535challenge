@@ -1,13 +1,14 @@
 # GCB 535 Challenge
-We play a game in our GCB 535 class ( http://www.med.upenn.edu/bgs/documents/GCB535.pdf ). The class aims to teach students, primarily biologists, about machine learning methods and their use. This repository hosts the challenge for individuals outside of our lab.
+
+We ([Casey Greene](http://www.greenelab.com/lab-members/) , [Ben Voight](http://coruscant.itmat.upenn.edu/people.html)) teach [GCB 535](http://www.med.upenn.edu/bgs/documents/GCB535.pdf) at Penn. The class as a whole is computational biology for biologists. This portion of the class aims to give students an introduction to machine learning, as well as hands on practice with machine learning methods. 
+
+In this game, we try to build and accurately assess a predictor. This repository hosts the challenge for individuals outside of our lab. Feel free to play along with us.
 
 ## Structure
 
-We'll provide two different datasets. Within each dataset (D1 and D2), we have 5000 examples. We've randomly partitioned these into sets of 2000, 1000, 1000, and 1000.
+We'll provide two different datasets. Within each dataset (D1 and D2), we have 5000 examples. We've randomly partitioned these into sets of 2000, 1000, 1000, and 1000. These are respectively numbered S1, S2, S3, and S4 for each dataset. Thus D1_S1.csv is a comma separated set of 2000 samples for the first dataset. The data have 200 features. The final column is the class label that we expect you to predict.
 
 The initial repository contains the first sets of 2000 and 1000 examples for each group.
-
-The data have 200 features. The final column is the class label that we expect you to predict.
 
 We'll release the third set of data at the time of our class on Wednesday, April 6. At this time, we'll also release the final prediction sets with labels stripped.
 
