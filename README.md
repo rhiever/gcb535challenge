@@ -27,7 +27,7 @@ gcb535challenge
 
 ```
 
-We'll release the third set of data at the time of our class on Wednesday, April 6. At this time, we'll also release the final prediction sets with labels stripped.
+We'll release the third set of data at the time of our class on Wednesday, April 6. At this time, we'll also release the final prediction sets with labels stripped. If you participate, we'd love to hear what you expect your accuracy to be (for binary class labels) once we release the final labels. We'll make these available just before or just after class on April 8th at 10AM EST.
 
 If you want to make predictions, fork this repository. Make sure your predictions are committed and pushed by April 8th at 10AM EST. Alongside your predictions, provide an estimate for the performance that you expect to see on the independent validation data.
 
