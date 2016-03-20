@@ -2,7 +2,7 @@
 
 We ([Casey Greene](http://www.greenelab.com/lab-members/) , [Ben Voight](http://coruscant.itmat.upenn.edu/people.html)) teach [GCB 535](http://www.med.upenn.edu/bgs/documents/GCB535.pdf) at Penn. The class as a whole is computational biology for biologists. This portion of the class aims to give students an introduction to machine learning, as well as hands on practice with machine learning methods. 
 
-In this game, we try to build and accurately assess a predictor. This repository hosts the challenge for individuals outside of our lab. Feel free to play along with us.
+In this game, we try to build and accurately assess a predictor. This repository hosts the challenge for individuals outside of our class. Feel free to play along with us.
 
 ## Structure
 
