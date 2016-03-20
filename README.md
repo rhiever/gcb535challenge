@@ -23,11 +23,11 @@ gcb535challenge
     │   D2_S3.csv
 └───predict
     │   D1_S4.csv
-    │   D1_S4.csv
+    │   D2_S4.csv
 
 ```
 
-We'll release the third set of data at the time of our class on Wednesday, April 6. At this time, we'll also release the final prediction sets with labels stripped. If you participate, we'd love to hear what you expect your accuracy to be (for binary class labels) once we release the final labels. We'll make these available just before or just after class on April 8th at 10AM EST.
+We'll release the third set of samples (D1\_S3.csv and D2\_S3.csv) at the time of our class on Wednesday, April 6. At this time, we'll also release the final prediction sets with labels stripped (D1\_S4 and D2\_S4). If you participate, we'd love to hear what you expect your accuracy to be (for binary class labels) once we release the final labels. We'll make these available just before or just after class on April 8th at 10AM EST.
 
 If you want to make predictions, fork this repository. Make sure your predictions are committed and pushed by April 8th at 10AM EST. Alongside your predictions, provide an estimate for the performance that you expect to see on the independent validation data.
 
