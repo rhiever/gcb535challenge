@@ -1,6 +1,6 @@
 # GCB 535 Challenge
 
-We ([Casey Greene](http://www.greenelab.com/lab-members/) , [Ben Voight](http://coruscant.itmat.upenn.edu/people.html)) teach [GCB 535](http://www.med.upenn.edu/bgs/documents/GCB535.pdf) at Penn. The class as a whole is computational biology for biologists. This portion of the class aims to give students an introduction to machine learning, as well as hands on practice with machine learning methods. 
+We ([Casey Greene](http://www.greenelab.com/lab-members/) , [Ben Voight](http://coruscant.itmat.upenn.edu/people.html)) teach [GCB 535](http://www.med.upenn.edu/bgs/documents/GCB535.pdf) at Penn. The class as a whole is computational biology for biologists. This portion of the class aims to give students an introduction to machine learning, as well as hands on practice with machine learning methods.
 
 In this game, we try to build and accurately assess a predictor. This repository hosts the challenge for individuals outside of our class. Feel free to play along with us.
 
@@ -10,9 +10,12 @@ We'll provide two different datasets. Within each dataset (D1 and D2), we have 5
 
 The initial repository contains the first sets of 2000 (S1) and 1000 (S2) examples for each dataset. Each sample (S1, S2, S3, S4) within a dataset (e.g. D1) should be comparable. We'll provide an S3 that contains an additional 1000 samples for each dataset on Wednesday, April 6th. We'll also provide an S4 at that time in a predict subfolder. This one will have the labels stripped. You may use these samples however you wish (e.g. combine and cross validate, etc). The final metrics that we're interested in are prediction accuracy on the final subset (S4) as well as your ability to predict your accuracy on the held out data.
 
+We now provide an example (example.py) in the format of a move in the game that we expect the students to provide. Hopefully this provides a starting point for those of you attempting the challenge!
+
 ```
 gcb535challenge
 │   README.md
+│   example.py
 │
 └───data
     │   D1_S1.csv

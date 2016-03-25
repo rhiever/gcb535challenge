@@ -8,7 +8,7 @@
 # We need somewhere to start. We might as well start here.
 
 # Expected Accuracy
-# Assessed using a held out test set: 0.5
+# Assessed using a held out test set: 0.72
 
 # numpy provides the tools to easily load our data and split the
 # features from the labels
